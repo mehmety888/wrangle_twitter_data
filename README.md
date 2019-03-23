@@ -8,9 +8,9 @@ If you have enrolled to Data Analysis Nanodegree, please note that Udacity activ
 
 ## Installation
 To look at my work, you should install Anaconda first.
-´´https://www.anaconda.com/distribution/´´
+`https://www.anaconda.com/distribution/`
 
 Open Anaconda write
-´´jupyter notebook´´
+`jupyter notebook`
 
 
